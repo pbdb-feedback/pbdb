@@ -1,0 +1,490 @@
+Report for Institution Code PBDB, Resource pbdb_verts
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 496
+Number of records retrieved in searches: 4962
+Number of different countries where searches have been originated: 26
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Turkey ; Times: 1
+	Country: Madagascar ; Times: 1
+	Country: Italy ; Times: 41
+	Country: Unknown ; Times: 24
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 17
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Norway ; Times: 2
+	Country: Australia ; Times: 2
+	Country: China ; Times: 6
+	Country: Puerto Rico ; Times: 9
+	Country: Germany ; Times: 3
+	Country: Spain ; Times: 4
+	Country: United States ; Times: 323
+	Country: Morocco ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Russia ; Times: 5
+	Country: Brazil ; Times: 4
+	Country: Pakistan ; Times: 1
+	Country: Mexico ; Times: 22
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 11
+	Country: Colombia ; Times: 3
+	Country: Japan ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 3
+	Date: 2018-05-29 ; Times: 10
+	Date: 2018-05-20 ; Times: 9
+	Date: 2018-05-21 ; Times: 17
+	Date: 2018-05-22 ; Times: 21
+	Date: 2018-05-23 ; Times: 26
+	Date: 2018-05-24 ; Times: 39
+	Date: 2018-05-25 ; Times: 4
+	Date: 2018-05-26 ; Times: 11
+	Date: 2018-05-27 ; Times: 11
+	Date: 2018-05-06 ; Times: 5
+	Date: 2018-05-07 ; Times: 22
+	Date: 2018-05-04 ; Times: 9
+	Date: 2018-05-05 ; Times: 7
+	Date: 2018-05-02 ; Times: 11
+	Date: 2018-05-03 ; Times: 12
+	Date: 2018-05-01 ; Times: 24
+	Date: 2018-05-08 ; Times: 23
+	Date: 2018-05-09 ; Times: 25
+	Date: 2018-05-31 ; Times: 12
+	Date: 2018-05-30 ; Times: 19
+	Date: 2018-05-15 ; Times: 25
+	Date: 2018-05-14 ; Times: 20
+	Date: 2018-05-17 ; Times: 32
+	Date: 2018-05-16 ; Times: 40
+	Date: 2018-05-11 ; Times: 15
+	Date: 2018-05-10 ; Times: 13
+	Date: 2018-05-13 ; Times: 2
+	Date: 2018-05-12 ; Times: 7
+	Date: 2018-05-19 ; Times: 17
+	Date: 2018-05-18 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:insculpta genus:Glyptemys stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:PBDB" ; Times: 3
+	Query: "distance(location,geopoint(42.6495013578174,-85.3872811613869))&lt;14725" ; Times: 2
+	Query: "class:reptilia stateprovince:&#34;meghalaya&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "Puerto Rico fossils" ; Times: 1
+	Query: "distance(location,geopoint(44.4012615325,-95.851061068))&lt;29711" ; Times: 2
+	Query: "phrynosoma cornutum stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "distance(location,geopoint(41.5160441908394,-96.0198408340023))&lt;18975" ; Times: 1
+	Query: "distance(location,geopoint(42.186861331453,-83.2637674419093))&lt;7232" ; Times: 1
+	Query: "Rio Lopez Mendoza" ; Times: 1
+	Query: "lepus callotis" ; Times: 1
+	Query: "specificepithet:bufo genus:Bufo institutioncode:PBDB" ; Times: 3
+	Query: "71073" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 2
+	Query: "Lepidobatrachus laevis" ; Times: 1
+	Query: "specificepithet:temporaria genus:Rana institutioncode:PBDB" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;Boyaca&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "burhinus superciliaris" ; Times: 3
+	Query: "specificepithet:fuscipes genus:Neotoma county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "Priodontes" ; Times: 2
+	Query: "sand boa" ; Times: 1
+	Query: "distance(location,geopoint(45.447436005,-86.8329547574999))&lt;20809" ; Times: 2
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 2
+	Query: "distance(location,geopoint(42.2699864184285,-90.3736484933877))&lt;29940" ; Times: 2
+	Query: "BMNH 92" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "genus:Glyptemys stateprovince:&#34;Pennsylvania&#34;" ; Times: 3
+	Query: "Tapirus bairdii" ; Times: 4
+	Query: "Pituophis melanoleucus virginia" ; Times: 1
+	Query: "specificepithet:transitionalis genus:Sylvilagus mappable:1" ; Times: 1
+	Query: "149388" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "specificepithet:impennis" ; Times: 1
+	Query: "109699" ; Times: 1
+	Query: "capybara" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:velox genus:vulpes year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "specificepithet:blandingii stateprovince:&#34;pennsylvania&#34;" ; Times: 3
+	Query: "Chitra chitra" ; Times: 3
+	Query: "specificepithet:americana genus:Rhea mappable:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "specificepithet:inermis genus:Hydropotes mappable:1" ; Times: 6
+	Query: "Dermatemys mawii mappable:1 year&gt;=1950" ; Times: 1
+	Query: "&#34;Crotalus atrox&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "sylvilagus nuttalli" ; Times: 1
+	Query: "equus quagga" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Santander&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Cesar&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:reevesi genus:Muntiacus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(45.50675844225,-95.9057693345))&lt;68126" ; Times: 2
+	Query: "vntype:specimen (marshalltown)" ; Times: 1
+	Query: "distance(location,geopoint(42.186861331453,-83.1081271922452))&lt;9629" ; Times: 1
+	Query: "specificepithet:signifera genus:Crinia institutioncode:PBDB" ; Times: 3
+	Query: "dovekie" ; Times: 1
+	Query: "distance(location,geopoint(41.7047640446795,-83.4943629612749))&lt;9603" ; Times: 1
+	Query: "Orohippus" ; Times: 1
+	Query: "specificepithet:japonicus genus:Bufo institutioncode:PBDB" ; Times: 3
+	Query: "37184" ; Times: 1
+	Query: "specificepithet:dammah" ; Times: 1
+	Query: "specificepithet:carolina genus:Terrapene county:&#34;DeSoto&#34; stateprovince:&#34;Florida&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "class:Reptilia county:&#34;Giles&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Diplocaulus" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 12
+	Query: "distance(location,geopoint(41.4408871659562,-95.9614754317952))&lt;18889" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "ghoul" ; Times: 4
+	Query: "whiptail lizards" ; Times: 1
+	Query: "Cabassous" ; Times: 4
+	Query: "specificepithet:lutra genus:Lutra mappable:1" ; Times: 6
+	Query: "distance(location,geopoint(37.6772884172284,-89.0633709977937))&lt;27695" ; Times: 2
+	Query: "specificepithet:crepitans genus:Acris institutioncode:PBDB" ; Times: 6
+	Query: "&#34;Sorex mirabilis&#34;" ; Times: 1
+	Query: "specificepithet:brevirostris genus:Orcaella" ; Times: 6
+	Query: "distance(location,geopoint(45.0386038400001,-96.221293923))&lt;30445" ; Times: 2
+	Query: "ZSM" ; Times: 1
+	Query: "Citing" ; Times: 1
+	Query: "abronia" ; Times: 1
+	Query: "specificepithet:gallopavo genus:Meleagris country:&#34;Mexico&#34; year &gt;= 1890 year &lt;= 1970" ; Times: 1
+	Query: "minnesota v" ; Times: 1
+	Query: "megamouth" ; Times: 1
+	Query: "Thylacinus cynocephalus" ; Times: 1
+	Query: "specificepithet:lutra genus:Lutra" ; Times: 6
+	Query: "distance(location,geopoint(45.3941023145,-96.442951676))&lt;34576" ; Times: 2
+	Query: "Erinaceus russia" ; Times: 1
+	Query: "gazella subgutturosa" ; Times: 3
+	Query: "Tapir" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "brain size" ; Times: 4
+	Query: "specificepithet:cinerea genus:Hyla institutioncode:PBDB" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;Tolima&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "chaetophractus" ; Times: 1
+	Query: "distance(location,geopoint(37.2278846305001,-89.1481192859999))&lt;20185" ; Times: 1
+	Query: "specificepithet:nasua genus:Nasua mappable:1" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 13
+	Query: "specificepithet:atratus genus:Cygnus mappable:1" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 1
+	Query: "specificepithet:rufogriseus genus:Macropus mappable:1" ; Times: 1
+	Query: "dicrocerus" ; Times: 1
+	Query: "&#34;Ursus Americanus&#34; vntype:specimen stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolina genus:Terrapene county:&#34;DeSoto&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "genus:Diplocaulus basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "county:&#34;Montgomery&#34; stateprovince:&#34;Indiana&#34;" ; Times: 2
+	Query: "specificepithet:anomalus genus:Sciurus mappable:1" ; Times: 1
+	Query: "ephippiorhynchus" ; Times: 1
+	Query: "distance(location,geopoint(39.152078820787,-93.5543637292319))&lt;66104" ; Times: 3
+	Query: "monster" ; Times: 3
+	Query: "specificepithet:peregusna genus:Vormela" ; Times: 1
+	Query: "Long-billed Dowitcher" ; Times: 1
+	Query: "Lagenorhynchus cruciger" ; Times: 2
+	Query: "vntype:specimen order:Nectridea basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Ammotragus lervia mappable:1" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 1
+	Query: "CM 9041" ; Times: 1
+	Query: "genus:Rhea" ; Times: 1
+	Query: "specificepithet:mascareniensis genus:Ptychadena institutioncode:PBDB" ; Times: 3
+	Query: "specificepithet:caerulea genus:Litoria institutioncode:PBDB" ; Times: 3
+	Query: "Louisiana black bear" ; Times: 1
+	Query: "ophisaurus virginia united states" ; Times: 2
+	Query: "specificepithet:moschatus genus:Ovibos mappable:1" ; Times: 1
+	Query: "specificepithet:erythraeus genus:Callosciurus mappable:1" ; Times: 1
+	Query: "hellbender" ; Times: 1
+	Query: "specificepithet:auratus genus:Mesocricetus mappable:1" ; Times: 1
+	Query: "mudpuppy" ; Times: 1
+	Query: "specificepithet:caerulescens genus:Anser mappable:1" ; Times: 1
+	Query: "Cyathea" ; Times: 2
+	Query: "Bufo japonicus" ; Times: 1
+	Query: "kund" ; Times: 1
+	Query: "dermatemys mawii" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "scientificname:(Acipenser oxyrinchus OR Acipenser oxyrynchus OR Acipenser oxyrhynchus) country:United States mappable:1" ; Times: 1
+	Query: "ratites" ; Times: 1
+	Query: "distance(location,geopoint(41.8976029593885,-83.301798682683))&lt;9659" ; Times: 1
+	Query: "Mertensiella caucasica" ; Times: 1
+	Query: "apertus" ; Times: 1
+	Query: "specificepithet:carolina genus:Terrapene county:&#34;DeSoto&#34; stateprovince:&#34;Florida&#34;" ; Times: 3
+	Query: "Pentalagus" ; Times: 2
+	Query: "elephant ivory" ; Times: 1
+	Query: "(camelus bactrianus)" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; country:&#34;United States&#34; Ursus americanus" ; Times: 1
+	Query: "distance(location,geopoint(37.677289235,-89.0633763645))&lt;13548" ; Times: 2
+	Query: "mongolian gerbil" ; Times: 3
+	Query: "guar" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "urubitinga" ; Times: 1
+	Query: "cyclanorbis" ; Times: 1
+	Query: "distance(location,geopoint(43.4354155745,-87.8734533689999))&lt;12687" ; Times: 2
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 5
+	Query: "impennis" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "Spizaetus" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 6
+	Query: "Myotis welwitschii" ; Times: 3
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "genus:Cryptobranchus stateprovince:&#34;Alabama&#34;" ; Times: 3
+	Query: "ophisaurus delaware united states" ; Times: 1
+	Query: "Ethiopian elephant" ; Times: 1
+	Query: "aepyornis" ; Times: 4
+	Query: "genus:Ursus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(39.23512034605,-93.5624226525))&lt;55443" ; Times: 4
+	Query: "zygoptera" ; Times: 1
+	Query: "distance(location,geopoint(45.2418073976384,-96.3615879541276))&lt;21471" ; Times: 2
+	Query: "distance(location,geopoint(45.3941139210832,-96.4433876691735))&lt;48705" ; Times: 1
+	Query: "upper bighorn" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 4
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 2
+	Query: "western sahara" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 1
+	Query: "specificepithet:holbrookii genus:Scaphiopus institutioncode:PBDB" ; Times: 3
+	Query: "collections crabs" ; Times: 1
+	Query: "specificepithet:lervia genus:Ammotragus mappable:1" ; Times: 1
+	Query: "marshalltown" ; Times: 3
+	Query: "specificepithet:getulus genus:Atlantoxerus mappable:1" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;La Guajira&#34; country:&#34;Colombia&#34;" ; Times: 2
+	Query: "27634" ; Times: 1
+	Query: "vicugna" ; Times: 1
+	Query: "rafetus" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias mappable:1 year&gt;=2000" ; Times: 1
+	Query: "cm 3257" ; Times: 1
+	Query: "specificepithet:aegyptiacus genus:Rousettus mappable:1" ; Times: 1
+	Query: "otis tarda" ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes mappable:1" ; Times: 1
+	Query: "44963" ; Times: 1
+	Query: "specificepithet:cultripes genus:Pelobates institutioncode:PBDB" ; Times: 3
+	Query: "Martin Patagonia" ; Times: 1
+	Query: "Adapis" ; Times: 3
+	Query: "Pronolagus" ; Times: 2
+	Query: "genus:Priodontes" ; Times: 2
+	Query: "A. G. Burr" ; Times: 1
+	Query: "specificepithet:pictus genus:Discoglossus institutioncode:PBDB" ; Times: 3
+	Query: "Myotis tricolor" ; Times: 1
+	Query: "genus:myodes stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "jackson sistrurus" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;maharastra&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "aardvark" ; Times: 1
+	Query: "eumops floridanus" ; Times: 2
+	Query: "Impennis" ; Times: 2
+	Query: "distance(location,geopoint(38.8970493997129,-90.1791755405046))&lt;12230" ; Times: 2
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "class:Reptilia county:&#34;Willacy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "nanger dama" ; Times: 2
+	Query: "vntype:specimen genus:Diplocaulus order:Nectridea basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "cyclura cayman" ; Times: 2
+	Query: "Hemitragus" ; Times: 3
+	Query: "specificepithet:dorsalis genus:Rhinophrynus institutioncode:PBDB" ; Times: 3
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "specificepithet:gallopavo genus:Meleagris country:&#34;Mexico&#34; year &gt;= 1850 year &lt;= 1970" ; Times: 1
+	Query: "NHMW" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor mappable:1" ; Times: 1
+	Query: "specificepithet:planirostris genus:Eleutherodactylus institutioncode:PBDB" ; Times: 3
+	Query: "distance(location,geopoint(43.9302007876938,-93.1386640465672))&lt;22744" ; Times: 1
+	Query: "distance(location,geopoint(39.31619728166,-93.5515952485077))&lt;64020" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;La Guajira&#34; country:&#34;Colombia&#34; AND (NOT FMNH)" ; Times: 1
+	Query: "Leptadapis" ; Times: 1
+	Query: "specificepithet:piscivorus genus:agkistrodon county:&#34;chatham&#34;" ; Times: 1
+	Query: "genus:Harpia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "genus:Glyptemys stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "62245" ; Times: 1
+	Query: "distance(location,geopoint(39.2687332665436,-90.7884712327553))&lt;17866" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana institutioncode:PBDB" ; Times: 3
+	Query: "distance(location,geopoint(44.161087015,-95.955358188))&lt;53644" ; Times: 2
+	Query: "Nesophontes edithae" ; Times: 5
+	Query: "distance(location,geopoint(41.8976029593885,-83.4753127642145))&lt;8319" ; Times: 1
+	Query: "specificepithet:ruber genus:phoenicopterus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "distance(location,geopoint(39.070019590351,-93.3608964360506))&lt;77242" ; Times: 3
+	Query: "decapods" ; Times: 2
+	Query: "35076" ; Times: 1
+	Query: "Pelodytes punctatus" ; Times: 3
+	Query: "31227" ; Times: 2
+	Query: "specificepithet:gallopavo genus:Meleagris mappable:1 year&gt;=2000" ; Times: 1
+	Query: "entomologist" ; Times: 1
+	Query: "Orcaella brevirostris" ; Times: 5
+	Query: "muntjac" ; Times: 1
+	Query: "specificepithet:semistriatus genus:Conepatus" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "echinorhinus" ; Times: 1
+	Query: "lesion" ; Times: 2
+	Query: "specificepithet:ocellatus genus:Leptodactylus institutioncode:PBDB" ; Times: 3
+	Query: "crocodylus niloticus" ; Times: 9
+	Query: "specificepithet:capensis genus:Lepus mappable:1" ; Times: 1
+	Query: "genus:Terrapene county:&#34;DeSoto&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "Passenger pigeon" ; Times: 1
+	Query: "vntype:specimen genus:Diplocaulus basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "specificepithet:laevis genus:Lepidobatrachus institutioncode:PBDB" ; Times: 3
+	Query: "Acratocnus odontrigonus" ; Times: 2
+	Query: "Ethiopian Elephant" ; Times: 1
+	Query: "distance(location,geopoint(42.0904418740985,-83.2832567278143))&lt;8407" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "Loxodonta Congo" ; Times: 3
+	Query: "distance(location,geopoint(43.6738092305001,-93.9502987805))&lt;29164" ; Times: 2
+	Query: "specificepithet:teuszii genus:Sousa" ; Times: 1
+	Query: "eryx jaculus" ; Times: 2
+	Query: "blue whale" ; Times: 2
+	Query: "Gypaetus" ; Times: 1
+	Query: "distance(location,geopoint(43.6229870615001,-93.336362792))&lt;26599" ; Times: 2
+	Query: "fossils Puerto Rico" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "Scutisorex" ; Times: 2
+	Query: "genus:Orcaella" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "Phrynosoma cornutum stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "distance(location,geopoint(38.3577784560001,-87.4390652764999))&lt;30214" ; Times: 2
+	Query: "ophisaurus virginia" ; Times: 1
+	Query: "gaur" ; Times: 1
+	Query: "Equus quagga quagga" ; Times: 2
+	Query: "distance(location,geopoint(39.2341380512235,-93.5623870643903))&lt;65495" ; Times: 3
+	Query: "specificepithet:gossypinus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 2
+	Query: "bighorn 1860" ; Times: 1
+	Query: "genus:Cryptobranchus stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "AL 3054" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "Lutra lutra" ; Times: 2
+	Query: "Rattus rattus Madagascar" ; Times: 1
+	Query: "amnh 9643" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 96 (out of 1178 download events in this period)
+Total number of records downloaded: 2439
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: Unknown ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: United States ; Times: 43
+	Country: Spain ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-29 ; Times: 2
+	Date: 2018-05-20 ; Times: 2
+	Date: 2018-05-21 ; Times: 1
+	Date: 2018-05-22 ; Times: 2
+	Date: 2018-05-23 ; Times: 3
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-26 ; Times: 4
+	Date: 2018-05-06 ; Times: 4
+	Date: 2018-05-07 ; Times: 12
+	Date: 2018-05-04 ; Times: 2
+	Date: 2018-05-02 ; Times: 5
+	Date: 2018-05-03 ; Times: 3
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-08 ; Times: 3
+	Date: 2018-05-09 ; Times: 5
+	Date: 2018-05-31 ; Times: 8
+	Date: 2018-05-30 ; Times: 3
+	Date: 2018-05-15 ; Times: 2
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-17 ; Times: 4
+	Date: 2018-05-16 ; Times: 7
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-10 ; Times: 3
+	Date: 2018-05-13 ; Times: 2
+	Date: 2018-05-19 ; Times: 1
+	Date: 2018-05-18 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia county:&#34;Giles&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "&#34;Ursus Americanus&#34; vntype:specimen stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:&#34;United States&#34; (Lissamphibia)" ; Times: 1
+	Query: "vntype:specimen family:Sciuridae (miocene) isfossil:1" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 1
+	Query: "Bufo punctatus" ; Times: 1
+	Query: "pileated woodpecker" ; Times: 1
+	Query: "class:Reptilia county:&#34;Giles&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Thamnophis proximus" ; Times: 1
+	Query: "class:Reptilia county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Macropus fuliginosus" ; Times: 1
+	Query: "abronia" ; Times: 1
+	Query: "specificepithet:gallopavo genus:Meleagris country:&#34;Mexico&#34; year &gt;= 1890 year &lt;= 1970" ; Times: 1
+	Query: "Macropus rufogriseus" ; Times: 1
+	Query: "lesion" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "african Elephant" ; Times: 3
+	Query: "Amphiuma means" ; Times: 1
+	Query: "brain size" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 1
+	Query: "marshalltown" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Desmognathus monticola" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "Plethodon virginia" ; Times: 1
+	Query: "Siren intermedia" ; Times: 2
+	Query: "specificepithet:punctatus genus:Bufo" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "palliata" ; Times: 2
+	Query: "mongolian gerbil" ; Times: 1
+	Query: "Mertensiella caucasica" ; Times: 1
+	Query: "Columbina talpacoti" ; Times: 1
+	Query: "Arctocephalus pusillus" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "elephant vntype:specimen (Uganda)" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Loxodonta Congo" ; Times: 1
+	Query: "genus:Ursus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vicugna" ; Times: 1
+	Query: "specificepithet:macrorhynchus genus:Globicephala" ; Times: 1
+	Query: "Pazos" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "order:squamata country:&#34;nigeria&#34;" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "class:Reptilia county:&#34;Willacy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "Falco peregrinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Macropus robustus" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "free-tailed bat vntype:specimen" ; Times: 1
+	Query: "genus:arctodus" ; Times: 1
+	Query: "dermatemys mawii" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "sylvilagus nuttalli" ; Times: 1
+	Query: "Serpentes" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+
+
+End of report.
