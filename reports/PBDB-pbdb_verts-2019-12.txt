@@ -1,0 +1,393 @@
+Report for Institution Code PBDB, Resource pbdb_verts
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 469
+Number of records retrieved in searches: 2935
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Canada ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 8
+	Country: Mongolia ; Times: 1
+	Country: France ; Times: 183
+	Country: Slovakia ; Times: 3
+	Country: Peru ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 4
+	Country: Australia ; Times: 3
+	Country: Singapore ; Times: 6
+	Country: Germany ; Times: 3
+	Country: Belgium ; Times: 5
+	Country: Thailand ; Times: 1
+	Country: United States ; Times: 199
+	Country: Sweden ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Myanmar ; Times: 1
+	Country: Portugal ; Times: 17
+	Country: Mexico ; Times: 8
+	Country: United Kingdom ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 21
+	Date: 2019-12-24 ; Times: 11
+	Date: 2019-12-27 ; Times: 16
+	Date: 2019-12-26 ; Times: 32
+	Date: 2019-12-21 ; Times: 48
+	Date: 2019-12-20 ; Times: 32
+	Date: 2019-12-23 ; Times: 25
+	Date: 2019-12-22 ; Times: 27
+	Date: 2019-12-29 ; Times: 1
+	Date: 2019-12-28 ; Times: 4
+	Date: 2019-12-18 ; Times: 21
+	Date: 2019-12-19 ; Times: 11
+	Date: 2019-12-10 ; Times: 24
+	Date: 2019-12-11 ; Times: 9
+	Date: 2019-12-12 ; Times: 7
+	Date: 2019-12-13 ; Times: 13
+	Date: 2019-12-14 ; Times: 8
+	Date: 2019-12-15 ; Times: 2
+	Date: 2019-12-16 ; Times: 23
+	Date: 2019-12-17 ; Times: 10
+	Date: 2019-12-30 ; Times: 2
+	Date: 2019-12-31 ; Times: 12
+	Date: 2019-12-09 ; Times: 19
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-07 ; Times: 10
+	Date: 2019-12-06 ; Times: 10
+	Date: 2019-12-05 ; Times: 21
+	Date: 2019-12-04 ; Times: 8
+	Date: 2019-12-03 ; Times: 8
+	Date: 2019-12-02 ; Times: 20
+	Date: 2019-12-01 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "53319" ; Times: 1
+	Query: "Santa Rosa snake" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Epinephelus itajara mappable:1" ; Times: 5
+	Query: "specificepithet:bidens genus:mesoplodon" ; Times: 1
+	Query: "224701" ; Times: 1
+	Query: "hutia" ; Times: 1
+	Query: "Pseudorca crassidens mappable:1" ; Times: 2
+	Query: "microcebus" ; Times: 1
+	Query: "genus:Lowesaurus isfossil:1" ; Times: 7
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "ophisaurus gracilis" ; Times: 1
+	Query: "Monachus tropicalis mappable:1" ; Times: 2
+	Query: "Lagenodelphis hosei mappable:1" ; Times: 2
+	Query: "specificepithet:reticulatus genus:Crotaphytus" ; Times: 2
+	Query: "Ziphius cavirostris mappable:1" ; Times: 2
+	Query: "Gypaetus barbatus" ; Times: 3
+	Query: "SP 3030" ; Times: 1
+	Query: "Lepidosiren" ; Times: 3
+	Query: "Hoplostethus mediterraneus mappable:1" ; Times: 2
+	Query: "wizard" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "genus:Tadarida county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Lepidobatrachus specificepithet:laevis" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "okapia" ; Times: 1
+	Query: "242020" ; Times: 1
+	Query: "55764" ; Times: 1
+	Query: "Natrix natrix hasmass:1" ; Times: 1
+	Query: "dicerorhinus sumatrensis" ; Times: 1
+	Query: "147931" ; Times: 1
+	Query: "224542" ; Times: 1
+	Query: "rev young" ; Times: 6
+	Query: "homo sapiens" ; Times: 4
+	Query: "Gouldia cerina mappable:1" ; Times: 4
+	Query: "255565" ; Times: 1
+	Query: "cotocollao" ; Times: 1
+	Query: "Sphyrna mokarran mappable:1" ; Times: 2
+	Query: "genus:Eptesicus county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "genus:Antrozous county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Carcharhinus perezii mappable:1" ; Times: 13
+	Query: "family:Helodermatidae isfossil:1" ; Times: 2
+	Query: "227082" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 2
+	Query: "Mephitis mephitis stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "genus:Histiotus institutioncode:PBDB" ; Times: 1
+	Query: "Rhizoprionodon terraenovae mappable:1" ; Times: 12
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 2
+	Query: "Dermochelys coriacea mappable:1" ; Times: 2
+	Query: "224539" ; Times: 1
+	Query: "Arctonyx" ; Times: 1
+	Query: "Peponocephala electra mappable:1" ; Times: 2
+	Query: "ghoul" ; Times: 1
+	Query: "Carcharhinus longimanus mappable:1" ; Times: 7
+	Query: "Harengula clupeola mappable:1" ; Times: 18
+	Query: "27933" ; Times: 1
+	Query: "specificepithet:lutra genus:Lutra mappable:1" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "furcifer verrucosus" ; Times: 3
+	Query: "155405" ; Times: 1
+	Query: "antidorcas" ; Times: 1
+	Query: "genus:storeria stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:japonicus genus:Bufo" ; Times: 2
+	Query: "genus:Dilophosaurus" ; Times: 2
+	Query: "52713" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "leptopus" ; Times: 1
+	Query: "227015" ; Times: 1
+	Query: "genus:geomys county:&#34;swisher&#34;" ; Times: 2
+	Query: "Tapirus terrestris mappable:1" ; Times: 1
+	Query: "SERVAL" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 1
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 19
+	Query: "227820" ; Times: 1
+	Query: "grus americana florida" ; Times: 1
+	Query: "224529" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 4
+	Query: "specificepithet:Hyaena genus:Hyaena" ; Times: 1
+	Query: "Equetus punctatus mappable:1" ; Times: 5
+	Query: "genus:Allosaurus" ; Times: 1
+	Query: "167134" ; Times: 1
+	Query: "167135" ; Times: 1
+	Query: "specificepithet:cristata genus:Proteles" ; Times: 1
+	Query: "publishers" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "pierson united arab emirates" ; Times: 1
+	Query: "462847" ; Times: 1
+	Query: "520625" ; Times: 2
+	Query: "stateprovince:Azuay class:Mammalia " ; Times: 1
+	Query: "genus:geomys county:&#34;williamson&#34; stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "trivittata" ; Times: 1
+	Query: "genus:sigmodon stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Dermatemys+mawii" ; Times: 1
+	Query: "Steno bredanensis mappable:1" ; Times: 2
+	Query: "genus:Rhagomys" ; Times: 2
+	Query: "hylonomus lyelli" ; Times: 1
+	Query: "154973" ; Times: 1
+	Query: "Hyaena hyaena" ; Times: 2
+	Query: "Megalops atlanticus mappable:1" ; Times: 11
+	Query: "Thunnus thynnus mappable:1" ; Times: 2
+	Query: "Rhincodon typus mappable:1" ; Times: 2
+	Query: "pentalagus furnessi" ; Times: 1
+	Query: "Lowesaurus" ; Times: 3
+	Query: "genus:sigmodon stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "farancia palm beach florida" ; Times: 1
+	Query: "Istiophorus platypterus mappable:1" ; Times: 2
+	Query: "JOCOTEPEC" ; Times: 1
+	Query: "country:Ecuador scientificname:Odocoileus peruvianus " ; Times: 5
+	Query: "Globicephala macrorhynchus mappable:1" ; Times: 2
+	Query: "genus:EUMETOPIAS stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Feresa attenuata mappable:1" ; Times: 2
+	Query: "139834" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 2
+	Query: "Mola mola mappable:1" ; Times: 2
+	Query: "Hiatella arctica mappable:1" ; Times: 18
+	Query: "boreal owl" ; Times: 1
+	Query: "whale shark" ; Times: 2
+	Query: "Pseudopus apodus" ; Times: 4
+	Query: "coturnix novaezelandiae" ; Times: 3
+	Query: "28549" ; Times: 1
+	Query: "59361" ; Times: 1
+	Query: "genus:geomys county:&#34;travis&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "32093" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "68443" ; Times: 1
+	Query: "genus:Hyaena" ; Times: 2
+	Query: "genus:Myotis county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "163509" ; Times: 1
+	Query: "Ginglymostoma cirratum mappable:1" ; Times: 2
+	Query: "224868" ; Times: 1
+	Query: "rhagomys" ; Times: 1
+	Query: "Rhodeus sericeus" ; Times: 4
+	Query: "miracinonyx trumani" ; Times: 2
+	Query: "Makaira nigricans  mappable:1" ; Times: 2
+	Query: "833323" ; Times: 1
+	Query: "dicerorhinus" ; Times: 1
+	Query: "833324" ; Times: 2
+	Query: "Physeter macrocephalus mappable:1" ; Times: 2
+	Query: "Mauremys leprosa" ; Times: 1
+	Query: "Sphyrna zygaena mappable:1" ; Times: 2
+	Query: "rock vole" ; Times: 2
+	Query: "NMW" ; Times: 1
+	Query: "91315" ; Times: 1
+	Query: "umzc" ; Times: 1
+	Query: "241393" ; Times: 1
+	Query: "141431" ; Times: 1
+	Query: "genus:charina stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 2
+	Query: "labrador duck" ; Times: 1
+	Query: "vntype:specimen genus:Hyaena" ; Times: 3
+	Query: "Mellivora capensis" ; Times: 1
+	Query: "Nevada specificepithet:suspectum genus:heloderma" ; Times: 1
+	Query: "Megadyptes antipodes" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "specificepithet:trumani family:felidae" ; Times: 1
+	Query: "TOLYPEUTES" ; Times: 1
+	Query: "genus:ursus stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "415507" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "phylogenetic tree" ; Times: 1
+	Query: "Carcharhinus falciformis mappable:1" ; Times: 10
+	Query: "Turnagra capensis" ; Times: 1
+	Query: "panthera uncia" ; Times: 3
+	Query: "specificepithet:spinosus genus:Bufo" ; Times: 2
+	Query: "lepus tolai" ; Times: 1
+	Query: "genus:Leiopelma" ; Times: 1
+	Query: "siren palm beach florida" ; Times: 1
+	Query: "Balaenoptera edeni  mappable:1" ; Times: 3
+	Query: "specificepithet:yagouaroundi" ; Times: 1
+	Query: "family:Leiopelmatidae locality:New Zealand" ; Times: 1
+	Query: "family:Dactyloidae county:&#34;Pinellas&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "1545 hume" ; Times: 2
+	Query: "Brotula barbata mappable:1" ; Times: 8
+	Query: "genus:Harpia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "&#34;Rhodeus sericeus&#34;" ; Times: 1
+	Query: "Dactylopterus volitans mappable:1" ; Times: 12
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "raphus cucullatus" ; Times: 1
+	Query: "Coenocorypha" ; Times: 1
+	Query: "Heloderma matthewi" ; Times: 3
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 4
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "Thunnus thynnus" ; Times: 1
+	Query: "Fabaceae" ; Times: 1
+	Query: "southern rock vole" ; Times: 1
+	Query: "Lowesaurus matthewi" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 2
+	Query: "Stenella frontalis mappable:1" ; Times: 2
+	Query: "Kogia sima mappable:1" ; Times: 2
+	Query: "atlantisia podarces" ; Times: 3
+	Query: "Ramphodon vntype:specimen" ; Times: 6
+	Query: "Balaenoptera musculus mappable:1" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 2
+	Query: "crocodylus moreletii" ; Times: 1
+	Query: "monachus tropicalis" ; Times: 1
+	Query: "Carcharhinus melanopterus" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "genus:Sula stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "213997" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 2
+	Query: "pelobates fuscus" ; Times: 1
+	Query: "genus:geomys county:&#34;randall&#34;" ; Times: 1
+	Query: "dilophus" ; Times: 3
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 3
+	Query: "Xiphias gladius mappable:1" ; Times: 2
+	Query: "genus:Rallus county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "canis rufus" ; Times: 4
+	Query: "Sphyrna lewini mappable:1" ; Times: 2
+	Query: "Emydoidea blanding" ; Times: 1
+	Query: "Acanthocybium solandri mappable:1" ; Times: 2
+	Query: "genus:Vulpes stateprovince:&#34;IDAHO&#34;" ; Times: 1
+	Query: "genus:euleptes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 67 (out of 596 download events in this period)
+Total number of records downloaded: 1361
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: Mongolia ; Times: 1
+	Country: United States ; Times: 39
+	Country: Paraguay ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 11
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-24 ; Times: 11
+	Date: 2019-12-27 ; Times: 2
+	Date: 2019-12-04 ; Times: 7
+	Date: 2019-12-12 ; Times: 4
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-31 ; Times: 1
+	Date: 2019-12-11 ; Times: 3
+	Date: 2019-12-02 ; Times: 6
+	Date: 2019-12-18 ; Times: 2
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-08 ; Times: 3
+	Date: 2019-12-10 ; Times: 5
+	Date: 2019-12-06 ; Times: 2
+	Date: 2019-12-05 ; Times: 11
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-03 ; Times: 2
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Spotted skunk" ; Times: 1
+	Query: "genus:Condylura" ; Times: 2
+	Query: "order:Procellariiformes country:&#34;Argentina&#34;" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "lepus tolai" ; Times: 1
+	Query: "marmota monax" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 2
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Arctonyx" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "ophisaurus gracilis" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "specificepithet:longicaudatus genus:Oligoryzomys" ; Times: 1
+	Query: "&#34;Rhodeus sericeus&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "genus:Furcifer" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "Mellivora capensis" ; Times: 1
+	Query: "vntype:specimen genus:phyllotis family:Cricetidae" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:dispar genus:Sorex" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "southern rock vole" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "phyllotis darwini" ; Times: 1
+	Query: "Emydoidea blanding" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "specificepithet:areolata genus:Rana class:Amphibia" ; Times: 1
+	Query: "oligoryzomys flavescens" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris class:Amphibia" ; Times: 1
+	Query: "Varanus gouldii" ; Times: 1
+	Query: "class:Aves locality:San Jose country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Timm" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "ansonia" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "genus:Eubalaena" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "del puerto canyon" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;minas&#34; country:&#34;brazil&#34;" ; Times: 1
+	Query: "genus:Sula stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "Varanus varius" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "Elgaria multicarinata" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
