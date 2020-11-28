@@ -1,0 +1,239 @@
+Report for Institution Code PBDB, Resource pbdb_verts
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 293
+Number of records retrieved in searches: 4666
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 6
+	Country: Italy ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Singapore ; Times: 3
+	Country: Unknown ; Times: 5
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 4
+	Country: Mexico ; Times: 5
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 88
+	Country: Peru ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Bolivia ; Times: 7
+	Country: United States ; Times: 159
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-19 ; Times: 1
+	Date: 2020-06-15 ; Times: 10
+	Date: 2020-06-14 ; Times: 2
+	Date: 2020-06-17 ; Times: 23
+	Date: 2020-06-16 ; Times: 17
+	Date: 2020-06-11 ; Times: 32
+	Date: 2020-06-10 ; Times: 38
+	Date: 2020-06-13 ; Times: 2
+	Date: 2020-06-12 ; Times: 23
+	Date: 2020-06-28 ; Times: 19
+	Date: 2020-06-07 ; Times: 5
+	Date: 2020-06-21 ; Times: 1
+	Date: 2020-06-22 ; Times: 1
+	Date: 2020-06-23 ; Times: 3
+	Date: 2020-06-24 ; Times: 6
+	Date: 2020-06-25 ; Times: 3
+	Date: 2020-06-08 ; Times: 23
+	Date: 2020-06-09 ; Times: 11
+	Date: 2020-06-06 ; Times: 4
+	Date: 2020-06-29 ; Times: 1
+	Date: 2020-06-04 ; Times: 29
+	Date: 2020-06-05 ; Times: 12
+	Date: 2020-06-02 ; Times: 6
+	Date: 2020-06-03 ; Times: 12
+	Date: 2020-06-01 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "Dasyprocta variegata" ; Times: 2
+	Query: "Agkistrodon piscivorous" ; Times: 4
+	Query: "stateprovince:&#34;Maine&#34; (Castor canadensis) institutioncode: PBDB" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Blastocerus dichotomus" ; Times: 1
+	Query: "country:&#34;United States&#34; Micrurus Wagler" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 6
+	Query: "Pinguinus impennis" ; Times: 2
+	Query: "Pentaedrusaurus" ; Times: 1
+	Query: "saimiri madre de dios" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 9
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "paulamys" ; Times: 1
+	Query: "genus:Neofelis" ; Times: 1
+	Query: "Fischer Tanzania" ; Times: 1
+	Query: "Blacktail deer" ; Times: 3
+	Query: "59011" ; Times: 1
+	Query: "coral snakes" ; Times: 2
+	Query: "myliobatis aquila" ; Times: 1
+	Query: "Gobiderma pulchrum" ; Times: 1
+	Query: "gaur" ; Times: 1
+	Query: "Micrurus Wagler" ; Times: 2
+	Query: "triangulum stateprovince:&#34;Maryland&#34;" ; Times: 4
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 16
+	Query: "Dactylomys" ; Times: 3
+	Query: "Leuciscus leuciscus" ; Times: 6
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:colorado OR kansas" ; Times: 1
+	Query: "grey squirrel" ; Times: 2
+	Query: "harpia" ; Times: 1
+	Query: "scientificname:emydoidea blandingii" ; Times: 19
+	Query: "Western Pond Turtle" ; Times: 1
+	Query: "specificepithet:pacificus genus:Indopacetus" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "family:Ctenomyidae isfossil:1" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 2
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 13
+	Query: "eastern coyote" ; Times: 3
+	Query: "arctonyx" ; Times: 3
+	Query: "genus:hylomys" ; Times: 13
+	Query: "Lagenorhynchus albirostris mappable:1" ; Times: 3
+	Query: "monster" ; Times: 1
+	Query: "Notopterus notopterus" ; Times: 6
+	Query: "pit viper" ; Times: 1
+	Query: "Bubalus bubalis" ; Times: 3
+	Query: "Anas penelope" ; Times: 6
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Rusa unicolor" ; Times: 6
+	Query: "Dactylomys cocha cashu" ; Times: 3
+	Query: "rattus tiomanicus" ; Times: 2
+	Query: "genus:paguma" ; Times: 1
+	Query: "Pipistrellus hesperus texas" ; Times: 1
+	Query: "mountain lion" ; Times: 1
+	Query: "Red panda" ; Times: 1
+	Query: "country:Ecuador scientificname:Odocoileus peruvianus " ; Times: 4
+	Query: "AMNH 28450" ; Times: 1
+	Query: "93995" ; Times: 1
+	Query: "vultur gryphus" ; Times: 2
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "hexaprotodon" ; Times: 1
+	Query: "lagomorph" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 5
+	Query: "family:Ctenomyidae country:&#34;Argentina&#34; isfossil:1" ; Times: 1
+	Query: "stilosoma" ; Times: 2
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "Yellow-billed Duck" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;La Guajira&#34; country:&#34;Colombia&#34;" ; Times: 2
+	Query: "procolophon" ; Times: 1
+	Query: "Pintosaurus magnidentis" ; Times: 5
+	Query: "Neotamias cinereicollis" ; Times: 4
+	Query: "class:aves stateprovince:&#34;zhejiang&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "93108" ; Times: 1
+	Query: "Dactylomys cocha" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Zulia&#34; country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "mustela asia" ; Times: 2
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 5
+	Query: "genus:Monachus" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 6
+	Query: "great auk" ; Times: 1
+	Query: "Turtle Mountain Road" ; Times: 1
+	Query: "stateprovince:&#34;Maine&#34; (Castor canadensis)" ; Times: 11
+	Query: "specificepithet:velox genus:Vulpes stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Soricidae stateprovince:&#34;Sonora&#34;" ; Times: 5
+	Query: "Callithrix pygmaea" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 6
+	Query: "Homo sapiens" ; Times: 18
+	Query: "&#34;harpia&#34;" ; Times: 1
+	Query: "Pituophis melanoleucas" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Zulia&#34; country:&#34;Venezuela&#34; institutioncode:PBDB" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Acre&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Dimetrodon recordedby:Cope basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 5
+	Query: "Dimetrodon limbatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 56 (out of 474 download events in this period)
+Total number of records downloaded: 1340
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 13
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: United States ; Times: 34
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Bolivia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-09 ; Times: 5
+	Date: 2020-06-06 ; Times: 3
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 13
+	Date: 2020-06-05 ; Times: 6
+	Date: 2020-06-02 ; Times: 8
+	Date: 2020-06-03 ; Times: 4
+	Date: 2020-06-01 ; Times: 10
+	Date: 2020-06-10 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Dasyprocta variegata" ; Times: 2
+	Query: "Dactylomys" ; Times: 2
+	Query: "sea otter" ; Times: 1
+	Query: "country:&#34;United States&#34; Micrurus Wagler" ; Times: 1
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "california scrub jay" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Blastocerus dichotomus" ; Times: 1
+	Query: "white tailed deer" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "Tiliqua nigrolutea" ; Times: 1
+	Query: "pacific shrew" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "grey squirrel" ; Times: 1
+	Query: "box turtle" ; Times: 2
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (hypoleucus OR hypoleuca OR scrippsi OR Synthliboramphus OR Brachyramphus OR murrelet) AND (NOT craveri NOT Coronado)" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "grizzly bear" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "elf owl" ; Times: 3
+	Query: "scrub jay" ; Times: 2
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "american alligator" ; Times: 2
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "SMNS" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "locality:kentucky" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "tiger salamander" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:atrox country:&#34;Peru&#34;" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+
+
+End of report.
