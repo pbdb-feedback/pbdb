@@ -1,0 +1,608 @@
+Report for Institution Code PBDB, Resource pbdb_verts
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 498
+Number of records retrieved in searches: 4287
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 21
+	Country: Canada ; Times: 2
+	Country: Qatar ; Times: 1
+	Country: Peru ; Times: 14
+	Country: Unknown ; Times: 10
+	Country: France ; Times: 51
+	Country: Ireland ; Times: 3
+	Country: Laos ; Times: 1
+	Country: Argentina ; Times: 5
+	Country: Bolivia ; Times: 3
+	Country: Ecuador ; Times: 11
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 11
+	Country: Spain ; Times: 4
+	Country: Netherlands ; Times: 3
+	Country: United States ; Times: 283
+	Country: Sweden ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 33
+	Country: India ; Times: 14
+	Country: United Kingdom ; Times: 3
+	Country: Malaysia ; Times: 10
+	Country: Colombia ; Times: 6
+	Country: Japan ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 7
+	Date: 2020-07-08 ; Times: 6
+	Date: 2020-07-21 ; Times: 20
+	Date: 2020-07-20 ; Times: 18
+	Date: 2020-07-27 ; Times: 8
+	Date: 2020-07-26 ; Times: 7
+	Date: 2020-07-25 ; Times: 66
+	Date: 2020-07-22 ; Times: 15
+	Date: 2020-07-01 ; Times: 6
+	Date: 2020-07-03 ; Times: 14
+	Date: 2020-07-02 ; Times: 17
+	Date: 2020-07-05 ; Times: 16
+	Date: 2020-07-04 ; Times: 2
+	Date: 2020-07-07 ; Times: 59
+	Date: 2020-07-06 ; Times: 19
+	Date: 2020-07-24 ; Times: 10
+	Date: 2020-07-23 ; Times: 10
+	Date: 2020-07-29 ; Times: 29
+	Date: 2020-07-18 ; Times: 3
+	Date: 2020-07-19 ; Times: 3
+	Date: 2020-07-12 ; Times: 3
+	Date: 2020-07-13 ; Times: 10
+	Date: 2020-07-10 ; Times: 13
+	Date: 2020-07-11 ; Times: 6
+	Date: 2020-07-16 ; Times: 32
+	Date: 2020-07-31 ; Times: 16
+	Date: 2020-07-14 ; Times: 17
+	Date: 2020-07-17 ; Times: 11
+	Date: 2020-07-15 ; Times: 19
+	Date: 2020-07-28 ; Times: 16
+	Date: 2020-07-30 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 5
+	Query: "echimys" ; Times: 1
+	Query: "58955" ; Times: 1
+	Query: "genus:Contogenys continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;Florida&#34; year &gt;= 1969 year &lt;= 1969" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM)" ; Times: 1
+	Query: "40497" ; Times: 1
+	Query: "Pseudalopex gymnocercus" ; Times: 1
+	Query: "Physeter macrocephalus mappable:1" ; Times: 1
+	Query: "genus:Panthera distance(location,geopoint(19.781754752564026,-115.96025528759438))&lt;3120076" ; Times: 1
+	Query: "class:reptilia distance(location,geopoint(37.62578060407461,-103.58324273220339))&lt;15773.300917264583" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "genus:Prenocephale continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Falco county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Pseudorca crassidens mappable:1" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 2
+	Query: "genus:Cemeterius continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Monachus tropicalis mappable:1" ; Times: 1
+	Query: "Lagenodelphis hosei mappable:1" ; Times: 1
+	Query: "genus:Paleoungulatum continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "Hellbender Tennessee" ; Times: 2
+	Query: "Megalops atlanticus mappable:1" ; Times: 1
+	Query: "genus:Stygiochelys continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "inia" ; Times: 1
+	Query: "Hoplostethus mediterraneus mappable:1" ; Times: 1
+	Query: "223293" ; Times: 1
+	Query: "Xenicus" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "elf" ; Times: 3
+	Query: "Balaenoptera edeni mappable:1" ; Times: 1
+	Query: "Pelodytes caucasicus" ; Times: 1
+	Query: "genus:Paranecturus continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "okapia" ; Times: 1
+	Query: "32839" ; Times: 1
+	Query: "genus:Rattus country:&#34;Thailand&#34;" ; Times: 1
+	Query: "Pecari tajacu country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Chrysemys scripta mappable:1" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "genus:Microcavia" ; Times: 2
+	Query: "specificepithet:geographica genus:Graptemys stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "specificepithet:augusti order:Anura county:&#34;Bexar&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "FMNH 5710" ; Times: 1
+	Query: "genus:Kimbetohia continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 2
+	Query: "class:reptilia distance(location,geopoint(37.62578060407461,-103.58324273220339))&lt;21343" ; Times: 1
+	Query: "class:reptilia distance(location,geopoint(37.66057780217779,-103.55028374782839))&lt;15773" ; Times: 1
+	Query: "173311" ; Times: 1
+	Query: "bogert 1954" ; Times: 1
+	Query: "genus:Batodon continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "family:Colubridae county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Postosuchus" ; Times: 2
+	Query: "Sphyrna mokarran mappable:1" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "Alopias superciliosus mappable:1" ; Times: 1
+	Query: "Haematopus moquini" ; Times: 2
+	Query: "Lama guanicoe country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Carcharhinus perezii mappable:1" ; Times: 2
+	Query: "BMNH 1859" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM)" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "genus:Gopherus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; institutioncode:PBDB" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM)" ; Times: 1
+	Query: "Mergus australis" ; Times: 2
+	Query: "Chioglossa" ; Times: 1
+	Query: "genus:Habrosaurus continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Pediomys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Rhizoprionodon terraenovae mappable:1" ; Times: 1
+	Query: "budorcas taxicolor" ; Times: 2
+	Query: "pipiens missouri" ; Times: 3
+	Query: "class:Reptilia distance(location,geopoint(37.616220878474536,-103.58049615017214))&lt;16205" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 1
+	Query: "Dermochelys coriacea mappable:1" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;virginia&#34; isfossil:1" ; Times: 3
+	Query: "class:Reptilia country:&#34;Swaziland&#34;" ; Times: 1
+	Query: "Crocodylus acutus 2005" ; Times: 2
+	Query: "hesperosorex lovei" ; Times: 2
+	Query: "56042" ; Times: 1
+	Query: "Crocodylus acutus 2001" ; Times: 2
+	Query: "Microcebus" ; Times: 1
+	Query: "colombia la sierra" ; Times: 1
+	Query: "Masayuki Ono" ; Times: 1
+	Query: "Peponocephala electra mappable:1" ; Times: 1
+	Query: "23686" ; Times: 2
+	Query: "ghoul" ; Times: 3
+	Query: "Carcharhinus longimanus mappable:1" ; Times: 1
+	Query: "Harengula clupeola mappable:1" ; Times: 1
+	Query: "Dactylomys" ; Times: 1
+	Query: "AMNH 56977" ; Times: 1
+	Query: "corallus" ; Times: 1
+	Query: "Tyrannosaurus Rex" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "Brazil Prata" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Falco stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "40514" ; Times: 2
+	Query: "Cooper AND 1861" ; Times: 1
+	Query: "AMNH 56978" ; Times: 1
+	Query: "Texas turtles" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans)" ; Times: 1
+	Query: "Sphyrna lewini mappable:1" ; Times: 1
+	Query: "Conus" ; Times: 3
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "Makaira nigricans mappable:1" ; Times: 1
+	Query: "silver haired bat" ; Times: 1
+	Query: "rio seco peru" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "genus:Allognathosuchus continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Crocodylus acutus 2006" ; Times: 2
+	Query: "eleutherodactylus johnstonei mappable:1" ; Times: 1
+	Query: "Sphyrna tiburo mappable:1" ; Times: 1
+	Query: "herrerasaurus" ; Times: 1
+	Query: "beckiasorex" ; Times: 2
+	Query: "186157" ; Times: 1
+	Query: "Trichys fasciculata" ; Times: 10
+	Query: "country:Ecuador scientificname:Panthera onca " ; Times: 34
+	Query: "Ozotoceros bezoarticus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "isothrix" ; Times: 1
+	Query: "Pseudalopex griseus" ; Times: 1
+	Query: "Crocodylus acutus 2017" ; Times: 2
+	Query: "heterodon arizona" ; Times: 1
+	Query: "genus:Clemensodon continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Cimolestes continent:North America AND (PBDB) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Equetus punctatus mappable:1" ; Times: 2
+	Query: "Otaria flavescens" ; Times: 1
+	Query: "Desmognathus monticola" ; Times: 1
+	Query: "Budorcas taxicolor" ; Times: 1
+	Query: "genus:Judithemys continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Miracinonyx distance(location,geopoint(5.063102863259693,-104.00713028759438))&lt;4433185" ; Times: 1
+	Query: "genus:Gerrhonotus continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "Capricornis" ; Times: 2
+	Query: "prata" ; Times: 1
+	Query: "genus:Paleoungulatum continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Acropoma" ; Times: 1
+	Query: "Spheniscus demersus" ; Times: 1
+	Query: "Nerodia Missouri" ; Times: 1
+	Query: "Kogia sima mappable:1" ; Times: 1
+	Query: "Upper Clarendon jamaica" ; Times: 1
+	Query: "genus:Protolambda continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Nanocuris continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Thunnus thynnus mappable:1" ; Times: 1
+	Query: "amadeus" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Feresa attenuata mappable:1" ; Times: 1
+	Query: "class:Reptilia locality:Summit county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "panthera onca country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Pristis pectinata mappable:1" ; Times: 2
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "geomys bursarius arkansas" ; Times: 1
+	Query: "genus:sigmodon stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:Ophisaurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "locality:Fox Canyon" ; Times: 3
+	Query: "Pavo muticus" ; Times: 4
+	Query: "Carcharhinus brevipinna mappable:1" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Steno bredanensis mappable:1" ; Times: 1
+	Query: "Lates niloticus" ; Times: 2
+	Query: "genus:Obamadon continent:North America basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Rhinolophus macrotis" ; Times: 1
+	Query: "&#34;Maastrichtian&#34; class:Reptilia continent:North America basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Lepus granatensis" ; Times: 1
+	Query: "M-16350" ; Times: 2
+	Query: "genus:Baioconodon continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Lynx distance(location,geopoint(46.45760574842239,-112.20703125))&lt;100000" ; Times: 2
+	Query: "genus:Valenopsalis continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "93698" ; Times: 1
+	Query: "Rhincodon typus mappable:1" ; Times: 1
+	Query: "OMNH 3839" ; Times: 1
+	Query: "Haematopus unicolor" ; Times: 2
+	Query: "Alopias" ; Times: 2
+	Query: "genus:Protungulatum continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "class:Mammalia (caqueta)" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "genus:Antilocapra stateprovince:california" ; Times: 2
+	Query: "Base de datos" ; Times: 1
+	Query: "Istiophorus platypterus mappable:1" ; Times: 1
+	Query: "specificepithet:peregrinus genus:Falco county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Odocoileus peruvianus " ; Times: 7
+	Query: "Globicephala macrorhynchus mappable:1" ; Times: 1
+	Query: "genus:Proamphiuma continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Eumeces stateprovince:&#34;Massachusetts&#34;" ; Times: 5
+	Query: "genus:Procerberus continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "specificepithet:douglassi genus:phrynosoma" ; Times: 1
+	Query: "Carcharhinus falciformis mappable:1" ; Times: 1
+	Query: "genus:Plastomenus continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Oligoryzomys" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "genus:Gopherus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Cimolodon continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Rio Seco peru" ; Times: 1
+	Query: "class:Mammalia (Caqueta)" ; Times: 1
+	Query: "Grampus griseus mappable:1" ; Times: 1
+	Query: "fm bailey" ; Times: 1
+	Query: "dactylomys" ; Times: 3
+	Query: "pentalagus" ; Times: 1
+	Query: "genus:Homotherium distance(location,geopoint(5.063102863259693,-104.00713028759438))&lt;4433185" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 1
+	Query: "herpailurus yagouaroundi" ; Times: 1
+	Query: "genus:Judithemys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 2
+	Query: "class:Reptilia locality:Bakersfield county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "azul RIVER COSTA RICA" ; Times: 1
+	Query: "rio azul costa rica" ; Times: 1
+	Query: "Hyla barbudensis mappable:1" ; Times: 1
+	Query: "genus:okapia class:mammalia" ; Times: 1
+	Query: "genus:Cryptobranchus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Arvin county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "spotted skunk" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 1
+	Query: "mecistops" ; Times: 1
+	Query: "Tragelaphus imberbis" ; Times: 1
+	Query: "vntype:specimen genus:Leopoldamys family:Muridae distance(location,geopoint(19.83501837870252,103.74023437499997))&lt;997809" ; Times: 1
+	Query: "genus:Aletridelphys continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Mosasauridae" ; Times: 1
+	Query: "Rana catesbiana" ; Times: 1
+	Query: "genus:Glyptemys stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "MHNN" ; Times: 1
+	Query: "touho new caledonia" ; Times: 1
+	Query: "class:Reptilia locality:Tehachapi county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Mustela sibirica" ; Times: 3
+	Query: "Mormoops megalophyla" ; Times: 1
+	Query: "class:Reptilia locality:Tehachapi county:&#34;Kern&#34; stateprovince:&#34;California&#34; institutioncode:PBDB" ; Times: 1
+	Query: "Campos Alegre" ; Times: 1
+	Query: "Panama Rio azul" ; Times: 1
+	Query: "recordedby:bristow" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "Alopias superciliosus" ; Times: 3
+	Query: "genus:Socognathus continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Epinephelus itajara mappable:1" ; Times: 2
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "genus:Leptalestes continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Scapherpeton continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "dama mesopotamica" ; Times: 3
+	Query: "Sphyrna zygaena mappable:1" ; Times: 1
+	Query: "Hyodon" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 9
+	Query: "Shoebill" ; Times: 2
+	Query: "family:Phrynosomatidae isfossil:1" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 2
+	Query: "Isurus oxyrinchus mappable:1" ; Times: 1
+	Query: "genus:Eumeces stateprovince:&#34;massachusetts&#34;" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 1
+	Query: "balaena glacialis" ; Times: 3
+	Query: "class:reptilia distance(location,geopoint(37.60551603835981,-103.55341174182423))&lt;23665" ; Times: 1
+	Query: "genus:Alphadon continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "country:Ecuador genus:Panthera " ; Times: 1
+	Query: "crotalus mitchelli" ; Times: 1
+	Query: "Paguma larvata" ; Times: 1
+	Query: "genus:Conacodon continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Ginglymostoma cirratum mappable:1" ; Times: 1
+	Query: "saurornithoides" ; Times: 1
+	Query: "kupfer" ; Times: 1
+	Query: "specificepithet:mitchelli county:&#34;kern&#34;" ; Times: 1
+	Query: "genus:Paleoungulatum continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 2
+	Query: "Pteronura brasiliensis country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Carcharhinus signatus mappable:1" ; Times: 1
+	Query: "genus:Parectypodus continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Puercan genus:Cimolestes continent:North America AND (PBDB) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Antilocapra stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Thylacodon continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Blaubeuren" ; Times: 1
+	Query: "dermatemys" ; Times: 1
+	Query: "FMNH 5712" ; Times: 2
+	Query: "genus:Habrosaurus continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Parectypodus continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Hemitragus jemlahicus" ; Times: 1
+	Query: "Saurornithoides" ; Times: 1
+	Query: "176298" ; Times: 1
+	Query: "Brazil Palmares" ; Times: 1
+	Query: "genus:Valenopsalis continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "apalone spinifera texas" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU)" ; Times: 1
+	Query: "Brotula barbata mappable:1" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(37.616220878474536,-103.58049615017214))&lt;29768" ; Times: 1
+	Query: "specificepithet:beecheyi genus:spermophilus county:&#34;riverside&#34;" ; Times: 1
+	Query: "genus:Xyronomys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "faunal bones" ; Times: 2
+	Query: "genus:Homotherium" ; Times: 1
+	Query: "genus:Aspideretoides continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Dactylopterus volitans mappable:1" ; Times: 1
+	Query: "river seco peru" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 1
+	Query: "genus:Litakis continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Riek" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 1
+	Query: "genus:Boremys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "&#34;Puercan&#34; class:Reptilia continent:North America basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "shahdol" ; Times: 1
+	Query: "genus:Odaxosaurus continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Paradiscoglossus continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "stateprovince:&#34;virginia&#34; isfossil:1" ; Times: 8
+	Query: "locality:Woodbridge county:&#34;Middlesex&#34; stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "genus:Ectoconus continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Rusa unicolor" ; Times: 1
+	Query: "Naemorhedus goral" ; Times: 2
+	Query: "Stenella frontalis mappable:1" ; Times: 1
+	Query: "genus:Champsosaurus continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Edmontonia continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Estescincosaurus continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU)" ; Times: 1
+	Query: "eumops hansae" ; Times: 1
+	Query: "genus:Paracimexomys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "balaenarum" ; Times: 2
+	Query: "genus:Nortedelphys continent:North America basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Cimolestes continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Prodesmodon continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "buteo jamaicensis springs" ; Times: 1
+	Query: "genus:Vultur" ; Times: 1
+	Query: "family:Scincidae class:Reptilia stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "SP 22149" ; Times: 2
+	Query: "Rhacophorus schlegelii" ; Times: 1
+	Query: "genus:Turgidodon continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "27947" ; Times: 1
+	Query: "genus:Cimexomys continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 1
+	Query: "Erythrocebus" ; Times: 3
+	Query: "class:reptilia county:&#34;Sublette&#34;" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "Xiphias gladius mappable:1" ; Times: 1
+	Query: "Prata" ; Times: 2
+	Query: "genus:Peneteius continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 8
+	Query: "Brachylagus idahoensis" ; Times: 2
+	Query: "class:amphibia county:&#34;Sublette&#34;" ; Times: 2
+	Query: "West Indies Barbuda" ; Times: 1
+	Query: "225843" ; Times: 1
+	Query: "specificepithet:augusti order:Anura county:&#34;Bexar&#34;" ; Times: 1
+	Query: "Cryptobranchus Tennessee" ; Times: 1
+	Query: "specificepithet:geographica genus:Graptemys stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Acanthocybium solandri mappable:1" ; Times: 1
+	Query: "Budorcas taxicolor taxicolor" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 158 (out of 940 download events in this period)
+Total number of records downloaded: 12802
+Number of different countries: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 25
+	Country: United States ; Times: 86
+	Country: Australia ; Times: 6
+	Country: Italy ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 5
+	Country: India ; Times: 6
+	Country: Peru ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Vietnam ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: Colombia ; Times: 9
+	Country: Japan ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 4
+	Date: 2020-07-08 ; Times: 3
+	Date: 2020-07-21 ; Times: 8
+	Date: 2020-07-20 ; Times: 2
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-25 ; Times: 37
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-03 ; Times: 9
+	Date: 2020-07-02 ; Times: 2
+	Date: 2020-07-04 ; Times: 3
+	Date: 2020-07-07 ; Times: 3
+	Date: 2020-07-06 ; Times: 12
+	Date: 2020-07-23 ; Times: 3
+	Date: 2020-07-29 ; Times: 3
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-28 ; Times: 6
+	Date: 2020-07-12 ; Times: 2
+	Date: 2020-07-13 ; Times: 10
+	Date: 2020-07-10 ; Times: 3
+	Date: 2020-07-11 ; Times: 3
+	Date: 2020-07-30 ; Times: 4
+	Date: 2020-07-31 ; Times: 3
+	Date: 2020-07-14 ; Times: 6
+	Date: 2020-07-17 ; Times: 3
+	Date: 2020-07-22 ; Times: 7
+	Date: 2020-07-15 ; Times: 3
+	Date: 2020-07-16 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "echimys" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "genus:Contogenys continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "class:Amphibia country:&#34;Argentina&#34;" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Stenella attenuata" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Ozotoceros bezoarticus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "genus:Panthera distance(location,geopoint(5.063102863259693,-104.00713028759438))&lt;4433185" ; Times: 1
+	Query: "Saurornithoides" ; Times: 1
+	Query: "genus:Paranecturus continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Stenella frontalis" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "Pecari tajacu country:&#34;Argentina&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "class:Amphibia country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "Hylomys" ; Times: 1
+	Query: "Chioglossa" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "genus:Pediomys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "budorcas taxicolor" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 1950" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "oligoryzomys longicaudatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Allognathosuchus continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Cimolestes continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Lamprophiidae" ; Times: 1
+	Query: "isothrix" ; Times: 1
+	Query: "Pseudalopex griseus" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Otaria flavescens" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "genus:Judithemys continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Gerrhonotus continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Miracinonyx distance(location,geopoint(5.063102863259693,-104.00713028759438))&lt;4433185" ; Times: 1
+	Query: "genus:Nanocuris continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "Epigonus" ; Times: 1
+	Query: "Pavo muticus" ; Times: 3
+	Query: "genus:Leptalestes continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Stygiochelys continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Obamadon continent:North America basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Judithemys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Leopoldamys" ; Times: 1
+	Query: "genus:Ectoconus continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Champsosaurus continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "class:Amphibia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Protungulatum continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Procerberus continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "specificepithet:douglassi genus:phrynosoma" ; Times: 1
+	Query: "genus:Plastomenus continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Pseudalopex gymnocercus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Cimolodon continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "dactylomys" ; Times: 2
+	Query: "Rusa unicolor" ; Times: 1
+	Query: "herpailurus yagouaroundi" ; Times: 1
+	Query: "class:Amphibia country:&#34;Peru&#34;" ; Times: 2
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys" ; Times: 1
+	Query: "spotted skunk" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "panthera onca country:&#34;Argentina&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:Thylacodon continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Antilocapra stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Nortedelphys continent:North America basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Boremys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "callosciurus" ; Times: 1
+	Query: "class:Amphibia bakeri" ; Times: 1
+	Query: "genus:Scapherpeton continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "brazil mammalia bahia" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "genus:Batodon continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "specificepithet:geographica genus:Graptemys stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:Aletridelphys continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Peromyscus gossypinus vntype:specimen" ; Times: 1
+	Query: "country:&#34;morocco&#34; year &gt;= 1971 year &lt;= 1972" ; Times: 1
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;2365818.802354772" ; Times: 1
+	Query: "Pteronura brasiliensis country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Puercan genus:Cimolestes continent:North America AND (PBDB) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "genus:Conacodon continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Habrosaurus continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Parectypodus continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Hemitragus jemlahicus" ; Times: 2
+	Query: "Rana pipiens nevada" ; Times: 1
+	Query: "genus:Aspideretoides continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Stenella longirostris" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "genus:Xyronomys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "genus:Homotherium" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "genus:Valenopsalis continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "stenella attenuata" ; Times: 1
+	Query: "genus:Smilodon" ; Times: 1
+	Query: "genus:Paracimexomys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Odaxosaurus continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "Naemorhedus goral" ; Times: 1
+	Query: "genus:Edmontonia continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Notiosorex isfossil:1" ; Times: 1
+	Query: "genus:Prodesmodon continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "genus:Turgidodon continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "genus:Peneteius continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "class:Mammalia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "potos flavus" ; Times: 2
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Lama guanicoe country:&#34;Argentina&#34;" ; Times: 1
+
+
+End of report.
